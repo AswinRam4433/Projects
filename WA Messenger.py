@@ -17,7 +17,7 @@ waweb.click()
 # now we will wait for 15 seconds for the user to scan the code
 #before this time, the user should've scanned the QR code or else the code will throw an error
 time.sleep(15)
-name_of_person='Data Science To Do'
+name_of_person='vijay beer'
 # replace the 'Data Science To Do' with the name of your contact or WA group
 con=driver.find_element_by_css_selector(f"[title^='{name_of_person}']")
 # con=driver.find_element_by_xpath('/html/body/div[1]/div[1]/div[1]/div[3]/div/div[2]/div[1]/div/div/div[13]/div/div/div[2]/div[1]/div[1]/span')
