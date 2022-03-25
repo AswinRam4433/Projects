@@ -29,4 +29,4 @@ I made use of the in-built corpora of the NLTK library of Python and picked out 
 I learnt how to make use of the NLTK library in real-world scenarios. I have gotten more confident in my data visualisation capabilites. At several stages of this project, I had to lookup StackOverflow and other online forums to fix bugs.
 
 ### License
-Licensed under MIT License. [https://github.com/AswinRam4433/Projects/blob/main/LICENSE](Click here) to know more.
+Licensed under MIT License. [Click here](https://github.com/AswinRam4433/Projects/blob/main/LICENSE) to know more.
