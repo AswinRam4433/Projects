@@ -30,7 +30,7 @@ I made use of the in-built corpora of the NLTK library of Python and picked out 
 - I have gotten more confident in my data visualisation capabilites. 
 
 ### Contact
-[LinkedIn](https://www.linkedin.com/feed/) Profile
+[Aswin Ramanathan](https://www.linkedin.com/feed/)
 
 Mail ID - aswinarv55[at][Gmail][dot][com]
 
