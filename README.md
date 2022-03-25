@@ -28,3 +28,5 @@ I made use of the in-built corpora of the NLTK library of Python and picked out 
 ### What did I learn in this project?
 I learnt how to make use of the NLTK library in real-world scenarios. I have gotten more confident in my data visualisation capabilites. At several stages of this project, I had to lookup StackOverflow and other online forums to fix bugs.
 
+### License
+Licensed under MIT License. [xyz](Click here) to know more.
